@@ -1,0 +1,62 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.7/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.7/ http://www.mediawiki.org/xml/export-0.7.xsd" version="0.7" xml:lang="en">
+  <page>
+    <title>Human Anatomy/Osteology/Axialskeleton</title>
+    <ns>0</ns>
+    <id>181313</id>
+    <revision>
+      <id>1481605</id>
+      <parentid>1379871</parentid>
+      <timestamp>2009-04-26T02:03:12Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor/>
+      <comment>+Category</comment>
+      <sha1>hvxozde19haz4yhwj73ez82tf2bocbz</sha1>
+      <text xml:space="preserve">[[Image:Axial_skeleton_diagram.svg|thumb|240px|right|Diagram of the axial skeleton]]
+
+The Axial Skeleton is a division of the human skeleton and is named because it makes up the longitudinal ''axis'' of the body. It consists of the skull, hyoid bone, vertebral column, sternum and ribs. It is widely accepted to be made up of 80 bones, although this number varies from individual to individual.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>User:Toby Bartels</title>
+    <ns>2</ns>
+    <id>3</id>
+    <revision>
+      <id>2010226</id>
+      <parentid>1312964</parentid>
+      <timestamp>2010-12-30T23:13:58Z</timestamp>
+      <contributor>
+        <username>Toby Bartels</username>
+        <id>4</id>
+      </contributor>
+      <minor/>
+      <comment>Fix URI.</comment>
+      <sha1>0gkpggijneqw3uo8wpegsp3syggw049</sha1>
+      <text xml:space="preserve">I'm [http://tobybartels.name/ Toby Bartels].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Horn/General/Fingering Chart</title>
+    <ns>0</ns>
+    <id>23346</id>
+    <revision>
+      <id>1942387</id>
+      <parentid>1734837</parentid>
+      <timestamp>2010-10-02T20:21:09Z</timestamp>
+      <contributor>
+        <username>Nat682</username>
+        <id>144010</id>
+      </contributor>
+      <comment>added important note</comment>
+      <sha1>lana7m8m9r23oor0nh24ky45v71sai9</sha1>
+      <text xml:space="preserve">{{HornNavGeneral}}
+The horn spans four plus octaves depending on the player and uses both the treble and bass clefs. In this chart it is assumed the player is using a double-horn with F and Bb sides. The number 1 indicates that the index-finger valve should be depressed, the number 2 indicates that the middle-finger valve should be depressed and the number 3 indicates that the ring-finger valve should be depressed. There are eight possible valve combinations among the first, second and third valves: 0, 1, 2, 3, 1-2, 1-3, 2-3, and 1-2-3. However, there are effectively seven combinations, because 1-2 will produce the same notes, perhaps slightly out of tune, as 3 alone. One depresses the thumb key to use the Bb side of the horn.
+[[Image:Fingering chart.png]]
+[[Category:Horn]]</text>
+    </revision>
+  </page>
+</mediawiki>
